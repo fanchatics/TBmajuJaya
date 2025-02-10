@@ -1,0 +1,367 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.homepage {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.homepage .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 1959px;
+    position: relative;
+}
+
+.homepage .navbar {
+    position: absolute;
+    width: 1471px;
+    height: 100px;
+    top: 0;
+    background-color: #5a3f3f;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.homepage .login {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    top: 25px;
+    left: 1221px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.homepage .text-wrapper {
+    position: absolute;
+    top: 15px;
+    left: 29px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #5a3f3f;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.homepage .daftar {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    top: 25px;
+    left: 1111px;
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.homepage .text-wrapper-2 {
+    position: absolute;
+    top: 14px;
+    left: 25px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.homepage .icon-shopping-cart {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 30px;
+    left: 1028px;
+}
+
+.homepage .overlap-group {
+    position: absolute;
+    width: 500px;
+    height: 40px;
+    top: 30px;
+    left: 391px;
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+
+.homepage .icon-search-outline {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 5px;
+    left: 455px;
+}
+
+.homepage .text-wrapper-3 {
+    position: absolute;
+    top: 10px;
+    left: 13px;
+    opacity: 0.5;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #5a3f3f;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.homepage .logo-TOKO-white {
+    position: absolute;
+    width: 108px;
+    height: 108px;
+    top: 0;
+    left: 177px;
+    object-fit: cover;
+}
+
+.homepage .frame {
+    position: absolute;
+    width: 1010px;
+    height: 400px;
+    top: 127px;
+    left: 215px;
+}
+
+.homepage .banner-here {
+    position: absolute;
+    width: 858px;
+    height: 408px;
+    top: 0;
+    left: 76px;
+    object-fit: cover;
+}
+
+.homepage .left {
+    position: absolute;
+    width: 38px;
+    height: 64px;
+    top: 172px;
+    left: -4px;
+}
+
+.homepage .right {
+    position: absolute;
+    width: 38px;
+    height: 58px;
+    top: 175px;
+    left: 976px;
+}
+
+.homepage .line {
+    position: absolute;
+    width: 1170px;
+    height: 2px;
+    top: 553px;
+    left: 135px;
+}
+
+.homepage .baris {
+    top: 583px;
+    left: 207px;
+    position: absolute;
+    width: 1025px;
+    height: 325px;
+}
+
+.homepage .box {
+    left: 0;
+    position: absolute;
+    width: 200px;
+    height: 325px;
+    top: 0;
+    background-color: #5b4040;
+    border-radius: 15px;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.homepage .pic-box {
+    position: absolute;
+    width: 200px;
+    height: 220px;
+    top: 0;
+    left: 0;
+    border-radius: 15px;
+    border: 1px solid;
+    border-color: #5b4040;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.homepage .text-wrapper-4 {
+    position: absolute;
+    top: 239px;
+    left: 15px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.homepage .box-2 {
+    left: 275px;
+    position: absolute;
+    width: 200px;
+    height: 325px;
+    top: 0;
+    background-color: #5b4040;
+    border-radius: 15px;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.homepage .box-3 {
+    left: 825px;
+    position: absolute;
+    width: 200px;
+    height: 325px;
+    top: 0;
+    background-color: #5b4040;
+    border-radius: 15px;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.homepage .box-4 {
+    left: 550px;
+    position: absolute;
+    width: 200px;
+    height: 325px;
+    top: 0;
+    background-color: #5b4040;
+    border-radius: 15px;
+    box-shadow: 0px 4px 4px #00000040;
+}
+
+.homepage .baris-2 {
+    top: 953px;
+    left: 207px;
+    position: absolute;
+    width: 1025px;
+    height: 325px;
+}
+
+.homepage .baris-3 {
+    top: 1323px;
+    left: 208px;
+    position: absolute;
+    width: 1025px;
+    height: 325px;
+}
+
+.homepage .footer {
+    position: absolute;
+    width: 1523px;
+    height: 270px;
+    top: 1689px;
+    left: -42px;
+    background-color: #5b4040;
+}
+
+.homepage .overlap {
+    position: absolute;
+    width: 1175px;
+    height: 208px;
+    top: 10px;
+    left: 159px;
+}
+
+.homepage .icon-tiktok {
+    width: 45px;
+    left: 890px;
+    position: absolute;
+    height: 50px;
+    top: 100px;
+}
+
+.homepage .icon-instagram-fill {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 100px;
+    left: 965px;
+}
+
+.homepage .icon-whatsapp {
+    width: 50px;
+    left: 1045px;
+    position: absolute;
+    height: 50px;
+    top: 100px;
+}
+
+.homepage .text-wrapper-5 {
+    position: absolute;
+    top: 50px;
+    left: 890px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.homepage .overlap-2 {
+    position: absolute;
+    width: 1175px;
+    height: 208px;
+    top: 0;
+    left: 0;
+}
+
+.line-2 {
+    position: absolute;
+    width: 1170px;
+    height: 2px;
+    bottom: 201px;
+    left: 5px;
+}
+
+.homepage .akivili {
+    position: absolute;
+    width: 208px;
+    height: 208px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.homepage .p {
+    position: absolute;
+    width: 565px;
+    top: 63px;
+    left: 219px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.homepage .text-wrapper-6 {
+    position: absolute;
+    top: 228px;
+    left: 521px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
