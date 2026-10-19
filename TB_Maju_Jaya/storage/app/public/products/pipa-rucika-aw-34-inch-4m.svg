@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Pipa Rucika AW 3/4 inch (4m)">
+  <defs>
+    <linearGradient id="bg-pipa-rucika-aw-34-inch-4m" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2540"/>
+      <stop offset="100%" stop-color="#1e3a5f"/>
+    </linearGradient>
+    <linearGradient id="card-pipa-rucika-aw-34-inch-4m" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
+    </linearGradient>
+    <filter id="shadow-pipa-rucika-aw-34-inch-4m" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#020617" flood-opacity="0.38"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="600" fill="url(#bg-pipa-rucika-aw-34-inch-4m)"/>
+  <circle cx="520" cy="90" r="190" fill="#f59e0b" fill-opacity="0.12"/>
+  <circle cx="80" cy="520" r="210" fill="#ffffff" fill-opacity="0.05"/>
+
+  <!-- Top Category & Store Header -->
+  <rect x="36" y="32" width="190" height="34" rx="17" fill="#f59e0b"/>
+  <text x="131" y="54" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" fill="#0f172a" letter-spacing="1.2">PIPA-FITTING</text>
+  <text x="564" y="54" text-anchor="end" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#cbd5e1" letter-spacing="1">TB MAJU JAYA</text>
+
+  <!-- Center Stage Backdrop -->
+  <rect x="48" y="84" width="504" height="340" rx="28" fill="url(#card-pipa-rucika-aw-34-inch-4m)" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1.5"/>
+
+  <!-- Bespoke Product Illustration -->
+  <g filter="url(#shadow-pipa-rucika-aw-34-inch-4m)">
+    <rect x="210" y="160" width="180" height="180" rx="24" fill="#f59e0b"/>
+  </g>
+
+  <!-- Bottom Product Label Plate -->
+  <rect x="36" y="446" width="528" height="122" rx="20" fill="#0f172a" fill-opacity="0.82" stroke="#f59e0b" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="60" y="488" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800" fill="#f8fafc">Pipa Rucika AW 3/4 inch</text>
+  <text x="60" y="518" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#e2e8f0">(4m)</text>
+  <text x="60" y="548" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#f59e0b" letter-spacing="1.4">SATUAN: BATANG</text>
+</svg>

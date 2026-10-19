@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2540"/>
+      <stop offset="100%" stop-color="#1e3a5f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="500" cy="100" r="180" fill="#ffffff" fill-opacity="0.04"/>
+  <circle cx="100" cy="520" r="220" fill="#f59e0b" fill-opacity="0.06"/>
+  <g transform="translate(180, 140)">
+    <rect x="20" y="60" width="200" height="160" rx="18" fill="#1e293b" stroke="#f59e0b" stroke-width="6"/>
+    <path d="M20 110 L120 160 L220 110" fill="none" stroke="#fbbf24" stroke-width="6" stroke-linecap="round"/>
+    <line x1="120" y1="160" x2="120" y2="220" stroke="#fbbf24" stroke-width="6"/>
+    <circle cx="185" cy="65" r="36" fill="url(#accent)"/>
+    <path d="M172 65 L182 75 L200 55" fill="none" stroke="#0f2540" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="170" y="395" width="260" height="36" rx="18" fill="url(#accent)"/>
+  <text x="300" y="419" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="800" fill="#0f2540" letter-spacing="2">TB MAJU JAYA</text>
+  <text x="300" y="468" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#f8fafc">Material &amp; Alat Bangunan</text>
+  <text x="300" y="500" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" fill="#94a3b8">Gambar Produk Default</text>
+</svg>

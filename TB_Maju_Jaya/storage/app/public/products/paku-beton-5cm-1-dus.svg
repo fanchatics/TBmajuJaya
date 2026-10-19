@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Paku Beton 5cm (1 Dus)">
+  <defs>
+    <linearGradient id="bg-paku-beton-5cm-1-dus" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="card-paku-beton-5cm-1-dus" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
+    </linearGradient>
+    <filter id="shadow-paku-beton-5cm-1-dus" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#020617" flood-opacity="0.38"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="600" fill="url(#bg-paku-beton-5cm-1-dus)"/>
+  <circle cx="520" cy="90" r="190" fill="#f59e0b" fill-opacity="0.12"/>
+  <circle cx="80" cy="520" r="210" fill="#ffffff" fill-opacity="0.05"/>
+
+  <!-- Top Category & Store Header -->
+  <rect x="36" y="32" width="190" height="34" rx="17" fill="#f59e0b"/>
+  <text x="131" y="54" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" fill="#0f172a" letter-spacing="1.2">PAKU &amp; PERKAKAS</text>
+  <text x="564" y="54" text-anchor="end" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#cbd5e1" letter-spacing="1">TB MAJU JAYA</text>
+
+  <!-- Center Stage Backdrop -->
+  <rect x="48" y="84" width="504" height="340" rx="28" fill="url(#card-paku-beton-5cm-1-dus)" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1.5"/>
+
+  <!-- Bespoke Product Illustration -->
+  <g filter="url(#shadow-paku-beton-5cm-1-dus)">
+                    <!-- Concrete Nails Box + Hardened Steel Nails -->
+                <rect x="160" y="200" width="220" height="175" rx="16" fill="#b45309" stroke="#fbbf24" stroke-width="4"/>
+                <rect x="180" y="230" width="180" height="85" rx="8" fill="#fef3c7"/>
+                <text x="270" y="268" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="900" fill="#0f172a">PAKU BETON</text>
+                <text x="270" y="296" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800" fill="#b45309">5 CM • 1 DUS (1 KG)</text>
+                <!-- Steel Nails Illustration -->
+                <g transform="rotate(-28 415 230)">
+                  <rect x="388" y="120" width="34" height="10" rx="3" fill="#e2e8f0"/>
+                  <polygon points="399,130 411,130 411,310 405,335 399,310" fill="#cbd5e1" stroke="#64748b" stroke-width="2"/>
+                </g>
+                <g transform="rotate(18 430 250)">
+                  <rect x="418" y="135" width="34" height="10" rx="3" fill="#f8fafc"/>
+                  <polygon points="429,145 441,145 441,320 435,345 429,320" fill="#e2e8f0" stroke="#475569" stroke-width="2"/>
+                </g>
+  </g>
+
+  <!-- Bottom Product Label Plate -->
+  <rect x="36" y="446" width="528" height="122" rx="20" fill="#0f172a" fill-opacity="0.82" stroke="#f59e0b" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="60" y="488" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800" fill="#f8fafc">Paku Beton 5cm (1 Dus)</text>
+  <text x="60" y="518" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#e2e8f0"></text>
+  <text x="60" y="548" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#f59e0b" letter-spacing="1.4">SATUAN: DUS</text>
+</svg>

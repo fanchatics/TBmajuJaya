@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Semen Instan Perekat Keramik 25kg">
+  <defs>
+    <linearGradient id="bg-semen-instan-perekat-keramik-25kg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4c0519"/>
+      <stop offset="100%" stop-color="#881337"/>
+    </linearGradient>
+    <linearGradient id="card-semen-instan-perekat-keramik-25kg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
+    </linearGradient>
+    <filter id="shadow-semen-instan-perekat-keramik-25kg" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#020617" flood-opacity="0.38"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="600" fill="url(#bg-semen-instan-perekat-keramik-25kg)"/>
+  <circle cx="520" cy="90" r="190" fill="#fb7185" fill-opacity="0.12"/>
+  <circle cx="80" cy="520" r="210" fill="#ffffff" fill-opacity="0.05"/>
+
+  <!-- Top Category & Store Header -->
+  <rect x="36" y="32" width="190" height="34" rx="17" fill="#fb7185"/>
+  <text x="131" y="54" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" fill="#0f172a" letter-spacing="1.2">SEMEN &amp; ADUKAN</text>
+  <text x="564" y="54" text-anchor="end" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#cbd5e1" letter-spacing="1">TB MAJU JAYA</text>
+
+  <!-- Center Stage Backdrop -->
+  <rect x="48" y="84" width="504" height="340" rx="28" fill="url(#card-semen-instan-perekat-keramik-25kg)" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1.5"/>
+
+  <!-- Bespoke Product Illustration -->
+  <g filter="url(#shadow-semen-instan-perekat-keramik-25kg)">
+                    <!-- Tile Adhesive 25kg Sack + Ceramic Grid -->
+                <rect x="200" y="115" width="200" height="275" rx="20" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="4"/>
+                <rect x="200" y="145" width="200" height="40" fill="#e11d48"/>
+                <text x="300" y="171" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="900" fill="#ffffff" letter-spacing="1">PEREKAT KERAMIK</text>
+                <!-- Tile Grid Graphic -->
+                <g transform="translate(245, 200)" fill="#fda4af" stroke="#be123c" stroke-width="3">
+                  <rect x="0" y="0" width="48" height="48" rx="6"/>
+                  <rect x="58" y="0" width="48" height="48" rx="6" fill="#e11d48"/>
+                  <rect x="0" y="58" width="48" height="48" rx="6" fill="#e11d48"/>
+                  <rect x="58" y="58" width="48" height="48" rx="6"/>
+                </g>
+                <rect x="235" y="330" width="130" height="34" rx="10" fill="#0f172a"/>
+                <text x="300" y="353" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="900" fill="#fb7185">25 KG</text>
+  </g>
+
+  <!-- Bottom Product Label Plate -->
+  <rect x="36" y="446" width="528" height="122" rx="20" fill="#0f172a" fill-opacity="0.82" stroke="#fb7185" stroke-opacity="0.55" stroke-width="1.5"/>
+  <text x="60" y="488" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800" fill="#f8fafc">Semen Instan Perekat</text>
+  <text x="60" y="518" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#e2e8f0">Keramik 25kg</text>
+  <text x="60" y="548" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" fill="#fb7185" letter-spacing="1.4">SATUAN: SAK</text>
+</svg>
